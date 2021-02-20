@@ -7,4 +7,6 @@ package com.zc.springcloud;
 public class test {
     private int age;
     private String username;
+    private String password;
+    private String userid;
 }
